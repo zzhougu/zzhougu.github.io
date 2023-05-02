@@ -1,0 +1,85 @@
+# jemdoc: menu{MENU}{research.html}, nofooter  
+
+== Journal Publications
+
+- [https://arxiv.org/abs/2104.08279 Testing for Outliers with Conformal p-values], Stephen Bates, Emmanuel Candès, *Lihua Lei*, Yaniv Romano, and Matteo Sesia, 2022. /To appear in Annals of Statistics (AoS)/.
+
+- [https://arxiv.org/abs/2103.09763 Conformalized Survival Analysis], Emmanuel Candès, *Lihua Lei*, and Zhimei Ren, 2022+. /To appear in Journal of the Royal Statistical Society: Series B (JRSS-B)/.
+
+- [https://epubs.siam.org/doi/abs/10.1137/21M1394308 Adaptivity of Stochastic Gradient Methods for Nonconvex Optimization], Samuel Horváth, *Lihua Lei*, Peter Richtárik, and Michael I. Jordan, 2022. /SIAM Journal on Mathematics of Data Science (SIMODS), *4* (2022), 634-648/. [https://arxiv.org/abs/2002.05359 Arxiv]
+
+- [https://arxiv.org/abs/2007.10438 Conditional calibration for false discovery rate control under dependence], William Fithian, and *Lihua Lei*, 2022+. /To appear in Annals of Statistics (AoS)/. [https://arxiv.org/abs/2007.10438 Arxiv]
+
+- [https://dl.acm.org/doi/10.1145/3478535 Distribution-Free, Risk-Controlling Prediction Sets], Stephen Bates, Anastasios Angelopoulos, *Lihua Lei*, Jitendra Malik, and Michael I. Jordan, 2021. /Journal of the ACM, *68* (2021), 1-34/. [https://arxiv.org/abs/2101.02703 Arxiv]
+
+- [https://academic.oup.com/biomet/article-abstract/109/2/457/6362862?redirectedFrom=fulltext Smoothed Nested Testing on Directed Acyclic Graphs], Jackson H. Loper, *Lihua Lei*, William Fithian, and Wesley Tansey, 2021. /To appear in Biometrika/. [https://arxiv.org/abs/1911.09200 Arxiv]
+
+- [https://rss.onlinelibrary.wiley.com/doi/abs/10.1111/rssb.12445 Conformal Inference of Counterfactuals and Individual Treatment Effects], *Lihua Lei*, and Emmanuel Candès, 2021. /Journal of the Royal Statistical Society: Series B (JRSS-B) *83* (2021), 911-938/. [https://arxiv.org/abs/2006.06138 Arxiv]
+
+- [https://academic.oup.com/biomet/article-abstract/108/4/815/6042141 Regression adjustment in randomized experiments with a diverging number of covariates], *Lihua Lei*, and Peng Ding, 2020. /Biometrika *108* (2020), 815-828/. [https://arxiv.org/abs/1806.07585 Arxiv]
+
+- [https://arxiv.org/abs/1810.01509 Hierarchical community detection by recursive partitioning], Tianxi Li, *Lihua Lei*, Sharmodeep Bhattacharyya, Koen Van den Berge, Purnamrita Sarkar, Peter J. Bickel, and Elizaveta Levina, 2020. /To appear in Journal of the American Statistical Association (JASA)/. [https://arxiv.org/abs/1810.01509 Arxiv]
+
+- [https://academic.oup.com/biomet/article-abstract/108/2/397/5913387 An Assumption-Free Exact Test For Fixed-Design Linear Models With Exchangeable Errors], *Lihua Lei*, and Peter J. Bickel, 2020. /Biometrika *108* (2021), 397-412/. [https://arxiv.org/abs/1907.06133 Arxiv]
+
+- [https://academic.oup.com/biomet/article/108/2/253/5879274 A general interactive framework for FDR control under structural constraints], *Lihua Lei*, Aaditya Ramdas, and William Fithian, 2020. /Biometrika *108* (2021), 253-267/. [https://arxiv.org/abs/1710.02776 Arxiv]
+
+- [https://epubs.siam.org/doi/abs/10.1137/19M1256919 On the Adaptivity of Stochastic Gradient-Based Optimization], *Lihua Lei*, and Michael I. Jordan, 2020. /SIAM Journal on Optimization (SIOPT) *30* (2020), 1473-1500/. [https://arxiv.org/abs/1904.04480 Arxiv]
+
+- [https://www.sciencedirect.com/science/article/pii/S0304407620302694 Overlap in Observational Studies With High-Dimensional Covariates], Alexander D'Amour, Peng Ding, Avi Feller, *Lihua Lei*, and Jasjeet Sekhon, 2019. /Journal of Econometrics (JoE) *221* (2019), 644-654/. [https://arxiv.org/abs/1711.02582 Arxiv]
+
+- [https://rss.onlinelibrary.wiley.com/doi/abs/10.1111/rssb.12274 AdaPT: An interactive procedure for multiple testing with side information], *Lihua Lei*, and William Fithian, 2018. /Journal of the Royal Statistical Society: Series B (JRSS-B) *80* (2018), 649-679/. [https://arxiv.org/abs/1609.06035 Arxiv]
+
+- [https://doi.org/10.1007/s00440-017-0824-7 Asymptotics For High Dimensional Regression M-Estimates: Fixed Design Results], *Lihua Lei*, Peter J. Bickel, and Noureddine El Karoui. /Probability Theory and Related Fields (PTRF), *172* (2018), 983-1079/. [https://arxiv.org/abs/1612.06358 Arxiv]
+
+- [http://www3.stat.sinica.edu.tw/statistica/j26n4/j26n416/j26n416.html Functional Coefficient Moving Average Model With Applications To Forecasting Chinese CPI], Song Xi Chen, *Lihua Lei*, and Yundong Tu. /Statistica Sinica *26* (2016), 1649-1672/.
+
+== Conference Publications
+
+- [https://arxiv.org/abs/2001.09623 Variance Reduction with Sparse Gradients], Melih Elibol, *Lihua Lei*, Michael I. Jordan, /International Conference on Learning Representations (ICLR), 2020/.
+
+- [https://arxiv.org/abs/1610.04329 HONES: A Fast and Tuning-free Homotopy Method For Online Newton Step], Yuting Ye, *Lihua Lei*, and Cheng Ju, /International Conference on Artificial Intelligence and Statistics (AISTATS), 2018/.
+
+- [https://papers.nips.cc/paper/6829-non-convex-finite-sum-optimization-via-scsg-methods.pdf Nonconvex Finite-Sum Optimization Via SCSG Methods], *Lihua Lei*, Cheng Ju, Jianbo Chen, and Michael I. Jordan. /Advances in Neural Information Processing Systems (NIPS), 2017/. [https://arxiv.org/abs/1706.09156 Arxiv]
+
+- [http://proceedings.mlr.press/v54/lei17a.html Less than a Single Pass: Stochastically Controlled Stochastic Gradient Method], *Lihua Lei*, and Michael I. Jordan. /International Conference on Artificial Intelligence and Statistics (AISTATS), 2016/. [https://arxiv.org/abs/1609.03261 Arxiv] (The Arxiv version adds an erratum for the AISTATS camera-ready version)
+
+- [http://proceedings.mlr.press/v48/lei16.pdf Power of Ordered Hypothesis Testing], *Lihua Lei*, and William Fithian. /International Conference on Machine Learning (ICML), 2016/. [https://arxiv.org/abs/1606.01969 Arxiv]
+
+== Under Revision
+
+- [https://arxiv.org/abs/2107.13737 Double-Robust Two-Way-Fixed-Effects Regression For Panel Data], Dmitry Arkhangelsky, Guido W. Imbens, *Lihua Lei*, and Xiaoman Luo, 2021. Under R\&R at /Quantitative Economics (QE)/.
+
+== Preprints
+
+- [https://arxiv.org/abs/2209.01754 Learning from a Biased Sample], Roshni Sahoo, *Lihua Lei*, and Stefan Wager, 2022.
+
+- [https://arxiv.org/abs/2208.06685 Machine learning meets false discovery rate], Ariane Marandon, *Lihua Lei*, David Mary, and Etienne Roquain, 2022.
+
+- [https://arxiv.org/abs/2208.09542 Improving knockoffs with conditional calibration], Yixiang Luo, William Fithian, and *Lihua Lei*, 2022. 
+
+- [https://arxiv.org/abs/2208.02814 Conformal Risk Control] Anastasios Angelopoulos, Stephen Bates, Adam Fisch, *Lihua Lei*, and Tal Schuster, 2022.
+
+- [ovalue.pdf Distribution-Free Assessment of Population Overlap in Observational Studies], *Lihua Lei*, Alexander D'Amour, Peng Ding, Avi Feller, and Jasjeet Sekhon, 2021.
+
+- [https://arxiv.org/abs/2110.01052 Learn then Test: Calibrating Predictive Algorithms to Achieve Risk Control], Anastasios Angelopoulos, Stephen Bates, Emmanuel Candès, Michael I. Jordan, *Lihua Lei*, 2021.
+
+- [https://arxiv.org/abs/2106.15743 BONuS: Multiple multivariate testing with a data-adaptivetest statistic], Chiao-Yu Yang, *Lihua Lei*, Nhat Ho, and William Fithian, 2021.
+
+- [https://arxiv.org/abs/2004.14531 Consistency of Spectral Clustering on Hierarchical Stochastic Block Models], *Lihua Lei*, Xiaodong Li, and Xingmei Lou, 2020.
+
+- [https://arxiv.org/abs/1909.04798 Unified Two-to-infinity Eigenspace Perturbation Theory for Symmetric Random Matrices], *Lihua Lei*, 2019.
+
+== Softwares
+
+- [https://cran.r-project.org/web/packages/adaptMT/index.html adaptMT], an R package for AdaPT (adaptive p-value thresholding) on CRAN
+-- [demo_gene_drug.nb.html A short demo]
+-- [https://cran.r-project.org/web/packages/adaptMT/vignettes/adapt_demo.html A long tutorial]
+
+- [https://github.com/lihualei71/mkn mkn], an R package for multiple-knockoffs based inference (an ongoing project)
+
+- [https://lihualei71.github.io/cfcausal/index.html cfcausal], an R package for conformal inference of counterfactuals and individual treatment effects
+
+- [https://lihualei71.github.io/dbh/index.html dbh], an R package for dependence-adjusted Benjamini-Hochberg and general step-up procedures
+
+- [https://lihualei71.github.io/ovalue/index.html ovalue], an R package for distribution-free assessment of population overlap in observational studies
